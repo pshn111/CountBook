@@ -29,6 +29,15 @@
         <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_ad4b00aff25e5dff4572446d477396952d89448d.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7d537a4953ec6cb3718bf7d7dc8474c0703460a">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db36f9a1530cb74e1d33006cc803c4b3a659595f/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/4b61db7efeaf1d5e2d21bcb42ccf335fa6c3bba5/output/jars/classes.jar"
         jumboMode="false"
@@ -81,6 +90,15 @@
         revision="26.0.1"
         sha1="952944218ecedea1554a513dec0c14d570642843">
         <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_0899d57f2f19ca446abf56b274988793072339a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_86c11042399117cd0121959c14199437a50bbe78/classes.dex" />
     </item>
     <item
         is-multidex="false"

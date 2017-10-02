@@ -1,4 +1,7 @@
-#Mon Oct 02 13:59:04 MDT 2017
-base.0=/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Mon Oct 02 14:36:28 MDT 2017
+base.0=/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_86c11042399117cd0121959c14199437a50bbe78
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db36f9a1530cb74e1d33006cc803c4b3a659595f/classes.dex
+base.1=/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db36f9a1530cb74e1d33006cc803c4b3a659595f
+file.0=/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_86c11042399117cd0121959c14199437a50bbe78/classes.dex
